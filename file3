@@ -1,0 +1,4 @@
+hi ..
+i want edit this file and wanna check whether pull command download only the modified files and directly merge them with the master branch
+
+command : git pull 
